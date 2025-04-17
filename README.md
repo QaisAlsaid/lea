@@ -1,6 +1,6 @@
 # Lea
 
-Lea is a small C++20 interpreter for a simple programming language, built following *Writing an Interpreter in Go* by Thorsten Ball. It’s got a few tweaks, named Lea for kicks. Not polished, just a C++ experiment.
+Lea is a small C++23 interpreter for a simple programming language, built following *Writing an Interpreter in Go* by Thorsten Ball. It’s got a few tweaks, named Lea for kicks. Not polished, just a C++ experiment.
 
 ## Setup
 
