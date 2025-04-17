@@ -1,4 +1,4 @@
-# Lea
+# Lea 🌿
 
 Lea is a small C++23 interpreter for a simple programming language, built following *Writing an Interpreter in Go* by Thorsten Ball. It’s got a few tweaks, named Lea for kicks. Not polished, just a C++ experiment.
 
@@ -43,6 +43,10 @@ Or use the REPL:
 >> puts("Hello, Lea!");
 Hello, Lea!
 ```
+
+## Tests
+Unit tests are in the tests folder. See [tests/README.md](./tests/README.md)
+for how to build and run them.
 
 ## Heads-Up
 
